@@ -13,12 +13,19 @@
     "type": "git",
     "url": "git+https://github.com/kobalab/mjai-converter.git"
   },
-  "keywords": ["電脳麻将","麻雀","Mjai"],
+  "keywords": [
+    "電脳麻将",
+    "麻雀",
+    "Mjai"
+  ],
   "author": "Satoshi Kobayashi",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/kobalab/mjai-converter/issues"
   },
-  "homepage": "https://github.com/kobalab/mjai-converter#readme"
+  "homepage": "https://github.com/kobalab/mjai-converter#readme",
+  "dependencies": {
+    "@kobalab/majiang-core": "^1.4.1"
+  }
 }
