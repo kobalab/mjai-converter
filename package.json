@@ -1,0 +1,24 @@
+{
+  "name": "@kobalab/mjai-converter",
+  "version": "0.1.0",
+  "description": "電脳麻将とMjaiのプロトコル変換",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobalab/mjai-converter.git"
+  },
+  "keywords": ["電脳麻将","麻雀","Mjai"],
+  "author": "Satoshi Kobayashi",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kobalab/mjai-converter/issues"
+  },
+  "homepage": "https://github.com/kobalab/mjai-converter#readme"
+}
