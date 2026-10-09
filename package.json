@@ -1,6 +1,6 @@
 {
   "name": "@kobalab/mjai-converter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "電脳麻将とMjaiのプロトコル変換",
   "publishConfig": {
     "access": "public"
