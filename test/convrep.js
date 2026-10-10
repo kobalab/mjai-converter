@@ -83,4 +83,9 @@ suite('convrep()', ()=>{
         const convrep = converter.convrep();
         assert.deepEqual(convrep({ type:'none' }), {});
     });
+
+    test('空入力にデフォルトの応答を返すこと', ()=>{
+        const convrep = converter.convrep();
+        assert.deepEqual(convrep(), {});
+    })
 });
