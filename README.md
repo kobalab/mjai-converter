@@ -16,10 +16,10 @@ const converter = require('@kobalab/mjai-converter');
 
 |　関数    | 機能
 |:--------|:----------------------------
-| convreq |　通知を Mjai → 電脳麻将 に変換
-| convres |　応答を Mjai ← 電脳麻将 に変換
-| convmsg |　通内を 電脳麻将 → Mjai に変換
-| convrep |　応答を 電脳麻将 ← Mjai に変換
+| convreq | 通知を Mjai → 電脳麻将 に変換
+| convres | 応答を Mjai ← 電脳麻将 に変換
+| convmsg | 通内を 電脳麻将 → Mjai に変換
+| convrep | 応答を 電脳麻将 ← Mjai に変換
 
 ## ライセンス
 [MIT](https://github.com/kobalab/mjai-converter/blob/master/LICENSE)
